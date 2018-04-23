@@ -2,7 +2,7 @@ package tests
 
 import (
 	"testing"
-	"pop/models"
+	"golang_simple_api/models"
 	"fmt"
 )
 

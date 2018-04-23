@@ -2,11 +2,11 @@ package tests
 
 import (
 	"testing"
-	"pop/config"
+	"golang_simple_api/config"
 	"fmt"
 	"database/sql"
 	_ "github.com/lib/pq"
-	"pop/db"
+	"golang_simple_api/db"
 )
 
 var newDB = db.NewDB()
