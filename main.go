@@ -1,6 +1,6 @@
 package main
 
-import "pop/router"
+import "golang_simple_api/router"
 
 func main() {
 	router.Init()

@@ -2,7 +2,7 @@ package config
 
 const (
 	db_name = "users_store"
-	db_ip = "192.168.1.6:5432"
+	db_ip = "192.168.1.5:5432"
 	db_username = "admin"
 	db_pw = "root"
 	db_type = "postgres"

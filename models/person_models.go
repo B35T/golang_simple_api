@@ -1,9 +1,9 @@
 package models
 
 import (
-	"pop/db"
+	"golang_simple_api/db"
 	"fmt"
-	"pop/lib"
+	"golang_simple_api/lib"
 )
 
 var newDB = db.NewDB()

@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	"pop/config"
+	"golang_simple_api/config"
 	"fmt"
 	_ "github.com/lib/pq"
 )

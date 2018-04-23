@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"net/http"
-	"pop/models"
+	"golang_simple_api/models"
 	"encoding/json"
 	"errors"
 	"fmt"

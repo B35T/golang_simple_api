@@ -2,7 +2,7 @@ package router
 
 import (
 	"net/http"
-	c "pop/controllers"
+	c "golang_simple_api/controllers"
 )
 
 func Init() {
